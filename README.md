@@ -1,2 +1,2 @@
-# Portscanner
-A quick portscanner to reveal all the open ports in a network and also you can assign range for the port to be scanned.
+# How to use
+Open your terminal in the directory of script and type main.py a ip address then a startport and a endport.
